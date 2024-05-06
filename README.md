@@ -4,6 +4,8 @@ An application to help your order coffee with your favorite toppings.
 
 Notify you everything you buy and keep track of the price.
 
+To check whethere the scan is getting triggered automatically on PR.
+
 ## Authors
 
 * [@Cromega08](https://www.github.com/cromega08)
